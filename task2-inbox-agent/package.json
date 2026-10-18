@@ -1,0 +1,21 @@
+{
+  "name": "task2-inbox-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered customer support inbox agent integrated with Knowledge Brain",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "eval": "tsx src/index.ts --eval",
+    "test": "npm run build && node --test tests/*.test.cjs",
+    "eval:classification": "npm run build && node dist/evaluate.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

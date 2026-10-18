@@ -1,0 +1,122 @@
+[
+  {
+    "id": "HOLD-001",
+    "subject": "Change site banner",
+    "body": "Could you point me to the page for changing my site banner?",
+    "expectedCategory": "technical_support"
+  },
+  {
+    "id": "HOLD-002",
+    "subject": "DNS update not showing",
+    "body": "My domain's DNS changes have not taken effect and the site still shows the old destination.",
+    "expectedCategory": "technical_support"
+  },
+  {
+    "id": "HOLD-003",
+    "subject": "Login loop",
+    "body": "The login form sends me back to the same page every time I enter my password.",
+    "expectedCategory": "account_management"
+  },
+  {
+    "id": "HOLD-004",
+    "subject": "Recovery email",
+    "body": "I need to change my account email address because I no longer receive one-time codes.",
+    "expectedCategory": "account_management"
+  },
+  {
+    "id": "HOLD-005",
+    "subject": "Invoice tax line",
+    "body": "Our invoice shows a tax line that does not look right. Please review the billing details.",
+    "expectedCategory": "billing"
+  },
+  {
+    "id": "HOLD-006",
+    "subject": "Stop recurring charge",
+    "body": "Please stop next month's recurring charge on our subscription.",
+    "expectedCategory": "billing"
+  },
+  {
+    "id": "HOLD-007",
+    "subject": "Nonprofit pricing",
+    "body": "Does your software offer discounted pricing for nonprofit organizations?",
+    "expectedCategory": "sales"
+  },
+  {
+    "id": "HOLD-008",
+    "subject": "Product walkthrough",
+    "body": "Could someone walk us through a product demonstration before we choose a platform?",
+    "expectedCategory": "sales"
+  },
+  {
+    "id": "HOLD-009",
+    "subject": "Accessibility filters",
+    "body": "Can the directory show wheelchair-accessible results as a filter option?",
+    "expectedCategory": "feature_request"
+  },
+  {
+    "id": "HOLD-010",
+    "subject": "CSV export",
+    "body": "I'd love a bulk CSV export for our member records to save our team time.",
+    "expectedCategory": "feature_request"
+  },
+  {
+    "id": "HOLD-011",
+    "subject": "Getting started",
+    "body": "Where can I read the getting-started guide for a new website?",
+    "expectedCategory": "other"
+  },
+  {
+    "id": "HOLD-012",
+    "subject": "Onboarding thanks",
+    "body": "Thank you, the onboarding notes were helpful and clear.",
+    "expectedCategory": "other"
+  },
+  {
+    "id": "HOLD-013",
+    "subject": "Profile avatar broken",
+    "body": "The profile avatar upload is broken and I cannot save the new image.",
+    "expectedCategory": "technical_support"
+  },
+  {
+    "id": "HOLD-014",
+    "subject": "Blank service directory",
+    "body": "The service directory page has a blank white section after I update the content.",
+    "expectedCategory": "technical_support"
+  },
+  {
+    "id": "HOLD-015",
+    "subject": "Charge after cancellation",
+    "body": "The card was charged after we cancelled the plan. Please investigate this subscription charge.",
+    "expectedCategory": "billing"
+  },
+  {
+    "id": "HOLD-016",
+    "subject": "Franchise platform",
+    "body": "We are comparing directory platforms for a new franchise and would like to discuss options.",
+    "expectedCategory": "sales"
+  },
+  {
+    "id": "HOLD-017",
+    "subject": "CSV import request",
+    "body": "Please add a CSV import for existing service listings.",
+    "expectedCategory": "feature_request"
+  },
+  {
+    "id": "HOLD-018",
+    "subject": "Navigation broken on mobile",
+    "body": "The navigation menu is broken on mobile and some links disappear from the page.",
+    "expectedCategory": "technical_support"
+  },
+  {
+    "id": "HOLD-019",
+    "subject": "Trial account",
+    "body": "Could you tell me if a trial account is available before purchasing?",
+    "expectedCategory": "sales"
+  },
+  {
+    "id": "HOLD-020",
+    "subject": "Unexpected account change",
+    "body": "Someone changed the recovery email on my account without my permission.",
+    "expectedCategory": "account_management"
+  }
+]

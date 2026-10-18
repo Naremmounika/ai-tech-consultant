@@ -1,0 +1,26 @@
+
+# Meeting 01: Business Website Development
+Date: 2026-10-12
+Participants: Client, Mounika (Solutions Consultant)
+
+Client: We need a professional website for our local business. The main pages should include Home, About Us, Services, and Contact Us.
+
+Consultant: Do you need a way for customers to contact you through the website?
+
+Client: Yes, please add a contact form that collects the customer's name, email, phone number, and message. We need those enquiries sent to our business email.
+
+Client: The website must work well on mobile phones, tablets, and desktop computers. We want a clean design using our existing brand colors.
+
+Consultant: Do you need customer accounts or online payments in the first release?
+
+Client: Customers should be able to register and log in to access a members-only area. We do not need online payments in the first release.
+
+Client: We also want a directory of our services. Visitors should be able to search services and filter the results by category.
+
+Consultant: Who will maintain the website content?
+
+Client: Our staff should be able to update page content and service listings through an admin area. We also need basic search engine optimization for the main pages.
+
+Client: We will provide the logo, brand colors, page text, service information, and access to our domain. We would like an initial estimate before agreeing on a delivery date.
+
+Consultant: We will prepare a draft scope with assumptions, risks, effort ranges, and acceptance criteria for your review. Nothing will be committed until both sides approve it.

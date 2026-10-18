@@ -1,0 +1,24 @@
+
+# Meeting 02: Fitness Studio Booking Platform
+Date: 2026-10-14
+Participants: Studio Owner, Consultant
+
+Owner: We want a website for our fitness studio where members can view class schedules and book available sessions.
+
+Consultant: Should visitors be able to book without an account?
+
+Owner: They should register and log in. Members need to see their upcoming bookings and cancel a booking before the class begins.
+
+Owner: The schedule must show class names, instructors, dates, times, and remaining spaces. We need an admin area where staff can add classes, change class capacity, and cancel sessions.
+
+Consultant: Do you want online payment as part of the first version?
+
+Owner: Yes, we want to explore payment integration, but we have not selected a provider. Please list provider selection and payment rules as dependencies rather than assuming they are finalized.
+
+Owner: Members should receive email confirmations after booking and reminders before a class. The website should be mobile-friendly.
+
+Consultant: Will you provide the class descriptions, schedule, and branding?
+
+Owner: Yes. We will provide the content and branding. We need a preliminary estimate and a list of questions that must be answered before implementation.
+
+Consultant: We will identify assumptions, external dependencies, risks, and testable acceptance criteria. The scope will remain pending approval.

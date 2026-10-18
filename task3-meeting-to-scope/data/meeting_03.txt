@@ -1,0 +1,20 @@
+
+# Meeting 03: Business Website Development Follow-up
+Date: 2026-10-17
+Participants: Client, Mounika (Solutions Consultant)
+
+Client: We reviewed the draft scope for the business website from our previous meeting. We want to add two features to the proposed scope.
+
+Client: First, the main public pages should support English and Spanish. Our team will provide the translated text, so please do not include translation writing in the estimate.
+
+Client: Second, logged-in members should be able to save services to a favorites list and view their saved services later.
+
+Consultant: Are these additions required for the first release?
+
+Client: Yes, please include both in the revised draft, but show them as changes so we can understand how the scope has grown.
+
+Client: We also discussed moving our old blog posts to the new website. Please postpone blog migration to a future phase. Do not include it in the current estimate.
+
+Consultant: We will compare this meeting against the previous website scope, identify additions and potential removals, and recalculate the preliminary estimate.
+
+Client: Correct. Keep the revised proposal pending approval. We still need to review the final estimate, assumptions, and delivery plan before authorizing work.
